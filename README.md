@@ -5,4 +5,4 @@
 
 <img src="./raye.jpg" style="width: 75px; height:auto">
 
-<a href="https://github.com/LuccaFagundes">Pegue seus Código Aqui!</a>
+<a href="https://github.com/LuccaFagundes">Pegue seus Códigos Aqui!</a>
